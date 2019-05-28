@@ -47,3 +47,22 @@ rather minor modifications.
 questions by 1500 UTC tomorrow”  
 *is **far superior** to*  
 “are there any questions?”
+
+<!-- Note -->
+
+People *always* have questions on what they’ve just been briefed
+about. They just might not think of them straight away. Give people
+time to think through what you’ve just briefed them on, and they will
+think of good questions. So always have a follow-up round at a later
+time (2 hours later, the following day, whatever), for which you
+*encourage* your group to come back with questions.
+
+Also, use that same follow-up for checking how your briefing came
+across, by gently quizzing people with questions like
+
+* “by what date do we want to implement X?”, or
+* “Joe, what things will you need to coordinate with Jane on?”
+
+This gives you valuable feedback on the quality of your briefing: if
+your team can’t answer these questions, chances are that you weren’t
+as clear as you should have been.
