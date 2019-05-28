@@ -43,6 +43,7 @@ rather minor modifications.
    and with others in order to achieve your goal.
 
 
-“Please come back to me with your questions by 1500 UTC tomorrow”  
-is **far superior** to  
+“Please come back to me with your  
+questions by 1500 UTC tomorrow”  
+*is **far superior** to*  
 “are there any questions?”

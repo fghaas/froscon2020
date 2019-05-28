@@ -22,14 +22,15 @@ immediate and interactive, email, a wiki, or an issue tracker are *far
 superior* modes of communication.
 
 
-The only reason to use **direct messages** for collaboration  
+The only reason to use **DMs** for collaboration  
 is a need for immediate, interactive mutual feedback  
 **and confidentiality.**
 
 <!-- Note -->
-Using chat DMs as the *default* means of communication is utterly
-braindead. In order for a chat DM to be useful, there is precisely one
-clearly delineated confluence of events that must occur:
+Using chat direct messages (DMs) as the *default* means of
+communication is utterly braindead. In order for a chat DM to be
+useful, there is precisely one clearly delineated confluence of events
+that must occur:
 
 * You need immediate feedback from the other person,
 * you need mutual back-and-forth with the other person,

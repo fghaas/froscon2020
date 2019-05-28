@@ -26,7 +26,8 @@ It is important to understand that that lack of proximity is not only
 spatial, it is temporal as well, because:
 
 
-Working in a distributed team means **working asynchronously.**
+Working in a distributed team  
+means **working asynchronously.**
 
 <!-- Note -->
 If your team is distributed, this is equivalent to saying that it
@@ -60,8 +61,9 @@ if we fail to do so, that has a rather grave disadvantage, which is
 that...
 
 
-**Nothing** has as dire an impact on productivity as **poor
-communications.**
+**Nothing** has as dire an impact  
+on productivity as  
+**poor communications.**
 
 <!-- Note -->
 This is a truism that applies to both distributed and non-distributed
@@ -73,7 +75,8 @@ bad communications does guarantee failure.
 And here is one thing to start with:
 
 
-A capable distributed team **habitually externalises** information.
+A capable distributed team  
+**habitually externalises** information.
 
 <!-- Note -->
 Information is generally far less useful when it is only stored in one
