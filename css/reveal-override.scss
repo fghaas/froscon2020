@@ -1,0 +1,23 @@
+/* This file is linked from index.html, and should include any CSS
+   overrides that you want to apply to your selected reveal.js
+   "white" theme.
+*/
+
+.reveal {
+    h3, h4, h5, h6 {
+	text-transform: none;
+    }
+
+    .fragment {
+	opacity: 0.3 !important;
+	visibility: inherit !important;
+    }
+
+    .current-fragment {
+	opacity: 1 !important;
+    }
+
+    .hidden {
+	display: none !important;
+    }
+}
