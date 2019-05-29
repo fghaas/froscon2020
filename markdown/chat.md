@@ -1,5 +1,5 @@
 # Text chat
-(IRC, Slack, Mattermost, Riot.im etc.)
+([IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat), [Slack](https://slack.com/), [Mattermost](https://mattermost.com/), [Riot](https://riot.im/) etc.)
 
 
 The only reason to use **chat** for collaboration  
@@ -50,3 +50,85 @@ opinions, than that you won’t. So just use a shared channel from the
 get-go, that way it’s easier for others to follow the conversation if
 needed — and they might be able to point out an incorrect assumption
 that one of you has, before you end up chasing a red herring.
+
+
+### Why is chat awful for everything else?
+
+
+#### A chat ping is a shoulder tap.
+
+<!-- Note -->
+“Pinging” someone in a chat (that is, mentioning their username, which
+usually triggers a visual or auditory notification), is exactly like
+walking up to a person, interrupting what they are doing, tapping them
+on the shoulder, and asking them a question.
+
+**No matter whether it is your intention or not,** they will feel
+compelled to answer, relatively promptly (the only exception is when
+you’ve done this so often that you have conditioned your colleagues
+to ignore you — congratulations).
+
+This means that you’ve broken their train of thought, yanked them out
+of a potentially complex task, forced them to redo what they did
+pre-interruption, or actually have them commit a mistake.
+
+So pinging someone in a chat is something you should only do if you
+are aware of exactly this risk, *and* you are convinced that whatever
+you’re pinging about is more important. Otherwise, to be very blunt,
+you’ll be seen as the asshole.
+
+
+#### Want people to hate you? Send naked pings.
+
+<!-- Note -->
+A “naked ping” is the action of sending someone a message consisting
+only of their username and a marker like “ping”, “hi”, “hey” or
+similar.
+
+
+```
+14:00:02Z johndoe: florian: ping
+[...]
+15:56:17Z florian: johndoe: I hate you
+```
+Don’t. Just don’t.
+
+<!-- Note -->
+Any person who is versed in the use of chat communications will, when
+subjected to this behavior, be inclined to flay you alive. Infinitely
+more so if it’s a DM. **Do not do this.**
+
+
+```
+14:00:02Z johndoe: florian: can I get your eyes on PR #1422?
+[...]
+15:56:17Z florian: johndoe: done! 
+                   (was afk for a bit – sick kiddo)
+15:56:58Z johndoe: florian: np, ty
+```
+
+<!-- Note -->
+Instead, always provide context. Always always always. Don’t say “can
+I ask you a question, instead, *ask the question.* If something isn’t
+urgent, say something like “no urgency.” 
+
+It should be self-evident why this is better than naked pings, but if
+to you it is not, then please read [Naked
+Pings](https://blogs.gnome.org/markmc/2014/02/20/naked-pings/),
+courtesy of Alan Jackson and Mark McLoughlin.
+
+
+### Why is relying on Slack the absolute worst?
+
+<!-- Note -->
+Slack, in particular, comes with a user experience that is utterly
+terrible for facilitating communications when what you want to achieve
+are collaborative results.
+
+Please note that little of what follows is a dig against Slack, the
+product, although I do disagree with some of its UX and design
+choices. It’s just the way that Slack is frequently used that is
+terrible, and Slack itself doesn’t discourage terrible Slack use much
+— let’s be real, why would it? If you’re using it do the detriment of
+your team *but you’re still paying Slack,* then it isn’t any of
+Slack’s business to discourage you.
