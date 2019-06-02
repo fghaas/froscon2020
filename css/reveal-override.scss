@@ -10,7 +10,6 @@
 
     .fragment {
 	opacity: 0.3 !important;
-	visibility: inherit !important;
     }
 
     .current-fragment {
@@ -19,5 +18,9 @@
 
     .hidden {
 	display: none !important;
+    }
+
+    td, th {
+	font-size: 200%;
     }
 }
