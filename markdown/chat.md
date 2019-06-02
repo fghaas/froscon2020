@@ -1,14 +1,25 @@
 # Text chat
-([IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat), [Slack](https://slack.com/), [Mattermost](https://mattermost.com/), [Riot](https://riot.im/) etc.)
-
-
-The only reason to use **chat** for collaboration  
-is a need for **immediate, interactive mutual feedback.**
 
 <!-- Note -->
-Using interactive chat is a positively nonsensical idea for any kind
-of communications _except_ the kind that requires immediate,
-interactive mutual feedback from two or more participants.
+So. Let’s talk about text chat. These days, that frequently means
+[Slack](https://slack.com/), but what I am talking about also and
+equally applies to
+[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat),
+[Mattermost](https://mattermost.com/), [Riot](https://riot.im/), and 
+anything similar.
+
+Is text chat universally useful? No. Is it universally bad? Not that,
+either. There is a very specific type of situation in which text chat
+is a good thing:
+
+
+Use **chat** for collaboration that requires  
+**immediate, interactive mutual feedback.**
+
+<!-- Note -->
+Using interactive chat is a good idea for the kind of communication
+that requires immediate, interactive mutual feedback from two or more
+participants. If that is not the case, chat is not a good idea.
 
 This means that the only thing that chat is good for is communication
 that is required to be *synchronous,* and remember, in a distributed
@@ -50,9 +61,6 @@ opinions, than that you won’t. So just use a shared channel from the
 get-go, that way it’s easier for others to follow the conversation if
 needed — and they might be able to point out an incorrect assumption
 that one of you has, before you end up chasing a red herring.
-
-
-### Why is chat awful for everything else?
 
 
 #### A chat ping is a shoulder tap.
@@ -116,19 +124,3 @@ It should be self-evident why this is better than naked pings, but if
 to you it is not, then please read [Naked
 Pings](https://blogs.gnome.org/markmc/2014/02/20/naked-pings/),
 courtesy of Alan Jackson and Mark McLoughlin.
-
-
-### Why is relying on Slack the absolute worst?
-
-<!-- Note -->
-Slack, in particular, comes with a user experience that is utterly
-terrible for facilitating communications when what you want to achieve
-are collaborative results.
-
-Please note that little of what follows is a dig against Slack, the
-product, although I do disagree with some of its UX and design
-choices. It’s just the way that Slack is frequently used that is
-terrible, and Slack itself doesn’t discourage terrible Slack use much
-— let’s be real, why would it? If you’re using it do the detriment of
-your team *but you’re still paying Slack,* then it isn’t any of
-Slack’s business to discourage you.

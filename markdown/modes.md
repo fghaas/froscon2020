@@ -14,8 +14,10 @@ It’s being lazy. <!-- .element class="fragment" -->
 In many teams, distributed or not, using chat as a default mode of
 communication is becoming the norm. This is **not** a symptom of
 having a particularly dynamic or efficient team; it’s the
-opposite. It’s a symptom of the worst kind of laziness: in an attempt
-to communicate quickly and effectively, you are really making things
+opposite. 
+
+It’s a symptom of the worst kind of laziness: in an attempt to
+communicate quickly and effectively, you are really making things
 harder for everyone, including yourself.
 
 
@@ -54,16 +56,6 @@ Let’s compare that to other communication modes:
   than 5-or-so people in a video call, and sharing the recording of a
   full video call is just pointless.
 
-
-|                   | Share  | Find   | Contextualise |
-| -----------       | :---:  | :--:   |               |
-| Chat              | 🙂     | 😐     | 🙁            |
-| Email             | 😐     | 😐     | 😐            |
-| **Wiki**          | **🙂** | **🙂** | **🙂**        |
-| **Issue tracker** | **🙂** | **🙂** | **🙂**        |
-| Video call        | 😐     | 🙁     | 🙁            |
-
-<!-- Note -->
 So really, make your wiki and your issue tracker your default mode of
 communications, and use the others sparingly. (This isn’t meant to be
 a euphemism for “don’t use them”, as we’ll get to in a moment.)

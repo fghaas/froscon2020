@@ -18,6 +18,15 @@ when dealing with incoming information.
 
 (Hat tip to David Allen)
 
+<!-- Note -->
+There’s a defined approach for doing this, which I learned about from
+reading [David
+Allen](https://en.wikipedia.org/wiki/David_Allen_(author))’s [Getting
+Things
+Done](https://www.goodreads.com/book/show/1633.Getting_Things_Done). I
+don’t know if Allen invented the 4-D approach or whether someone came
+up with it before him, but that’s how I know about it.
+
 
 #### Four-D actions
 
@@ -61,19 +70,47 @@ Keep archived information retrievable <!-- .element: class="fragment" -->
 Think about things you don’t understand <!-- .element: class="fragment" -->
 
 <!-- Note -->
-TODO
+“Dropping” things doesn’t mean ignoring them. You still have to read
+and understand what’s in them, and be able to find them later. So:
+
+* Never delete things (except spam).
+
+* Only archive them in a way that that keeps them retrievable in the
+  future.
+
+* If there something isn’t understandable to you, think it through and
+  look for clarification.
 
 
 ### “Delegate” rules
 
 Find the right person <!-- .element: class="fragment" -->
 
-Send them **all** the information <!-- .element: class="fragment" -->
+Send them all required information <!-- .element: class="fragment" -->
+
+Ask for acknowledgment <!-- .element: class="fragment" -->
 
 Follow up and follow through <!-- .element: class="fragment" -->
 
 <!-- Note -->
-TODO
+Delegation obviously requires that there is a person you can delegate
+to. This is *not necessarily* someone who reports to you; indeed, it
+might be someone **you** report to. (You might be asked to deal with
+something that you have no control over, but your manager does.) So:
+
+* Find the right person that can get the task done.
+
+* Preemptively send them **all** the information that you think they
+  might need (and that you have access to), rather than relying on
+  them to ask.
+
+* Ask them to acknowledge that they have received what they need.
+
+* Make a note to follow up to see if they need anything else, and
+  follow through by seeing the task to completion.
+
+Within your own team, **you only ever delegate tasks, not
+responsibility.**
 
 
 Tasks without **follow-up** and **follow-through**  
@@ -101,7 +138,21 @@ Prioritize later <!-- .element: class="fragment" -->
 Make sure you pick back up  <!-- .element: class="fragment" -->
 
 <!-- Note -->
-TODO
+Deferring simply means that because something you need to do doesn’t
+need doing *immediately,* you can do it at a time that suits your
+schedule.
+
+This means that you’ll need to
+
+* add the task immediately to some sort of queue (for email, this can
+  be a folder named “Needs Reply”),
+
+* make sure to go through that queue at a later time to prioritize
+  (ideally, right after you’re done with your “Do” tasks, which we’ll
+  get to in a second),
+
+* absolutely ensure that you make time to go back and actually do your
+  prioritized tasks, at a time you consider convenient.
 
 
 ### “Do” rules
@@ -113,4 +164,15 @@ No interruptions <!-- .element: class="fragment" -->
 Plow through  <!-- .element: class="fragment" -->
 
 <!-- Note -->
-TODO
+And finally, there’ll be your “Do” tasks — stuff that *you* need to
+do, and do immediately.
+
+* Tell people that you’re doing them, because you’ll want to be
+  uninterrupted. Update your chat status, put some blocked time in
+  your calendar.
+
+* Make sure you’ll be uninterrupted. For email, turn off all your
+  notifications.
+  
+* Plow through all the undropped, undelegated,
+  undeferred items in your inbox until it’s empty.
