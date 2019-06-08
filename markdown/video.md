@@ -60,3 +60,26 @@ helpful so people can decide if they
 * just keep in the back of their head that a meeting happened, that
   notes exist, and where they can find them when they need to refer
   back to them.
+
+
+### Video calls for recurring team meetings
+
+<!-- Note -->
+Using video calls for recurring meetings is a perfectly good
+opportunity to feel the pulse of your team.
+
+Obviously, a distributed team has *few* meetings, because they are
+synchronization points, and we’ve already discussed that we strive to
+minimize those. So the idea of having daily standups, sprint planning
+meetings, and sprint retrospectives is fundamentally incompatible with
+distributed teams. *Aside: in my humble opinion, this is also why
+using Scrum is a terrible idea in distributed teams — not to mention
+[that it’s a terrible idea, period.](https://youtu.be/f-ULT_Ic4qk)*
+
+However, having perhaps one meeting per week (or maybe even one every
+two weeks) in a video call is useful *precisely for the aforementioned
+reasons* of being able to pick up on nonverbal clues like body
+language, posture, facial expressions, and tone. If people are
+stressed out or unhappy, it’ll show. If they are relaxed and
+productive, that will show too.
+
