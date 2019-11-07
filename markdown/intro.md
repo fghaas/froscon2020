@@ -16,15 +16,24 @@ anecdotal. But it might be insightful to anyone joining, leaving, or
 interacting with a remote team.
 
 
+<!-- .slide: data-timing="5" -->
 Why am I talking here?
 
 <!-- Note -->
-... or rather ...
+So, why am I talking here? Or rather more precisely...
 
 
 Why am **I** talking here?
 
+office dweller — 11 years <!-- .element: class="fragment" -->
+
+distributed company founder — 6 years <!-- .element: class="fragment" -->
+
+remote exec leading distributed team in mixed-mode company — 2 years <!-- .element: class="fragment" -->
+
 <!-- Note -->
+Why is it me that's talking here; what qualifies me to talk about this
+subject?
 
 I turned 40 this year, have been in IT for about 19 years now (18
 full-time), and out of that I have worked
@@ -34,7 +43,7 @@ full-time), and out of that I have worked
 
 * in a completely distributed company, that I founded, for 6 years,
 
-* and now, for about a year and a half, I run a distributed team that
+* and now, for about two years, I run a distributed team that
   is a business unit of a company that has existed for 15 years and
   throughout that time, has only ever worked from a single office.
 
@@ -43,7 +52,7 @@ interesting challenges that come with this. But I'd like to state one
 thing upfront.
 
 
-This is **not science**.
+This is **not science.**
 
 <!-- Note -->
 Nothing of what I am talking about is steeped in any scientific
