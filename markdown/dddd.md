@@ -1,3 +1,6 @@
+## Pinching the firehose
+
+
 #### The **amount of incoming information** in a distributed team can be **daunting.**
 
 <!-- Note -->
