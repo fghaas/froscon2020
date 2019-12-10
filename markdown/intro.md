@@ -10,17 +10,17 @@ DevOpsDays Tel Aviv, 2019
 Florian Haas | [@xahteiwi](https://twitter.com/xahteiwi)
 
 <!-- Note -->
-This is a personal talk. It does not claim to be rooted in statistical
-analysis or scientific rigour, and the evidence presented is
-anecdotal. But it might be insightful to anyone joining, leaving, or
-interacting with a remote team.
+This presentation is a 40-minute talk presented at [DevOpsDays Tel
+Aviv](https://devopsdaystlv.com/) 2019.
+
+This talk is about communications in distributed teams.
 
 
 <!-- .slide: data-timing="5" -->
 Why am I talking here?
 
 <!-- Note -->
-So, why am I talking here? Or rather more precisely...
+So, why am I talking about that? Or rather more precisely...
 
 
 Why am **I** talking here?
