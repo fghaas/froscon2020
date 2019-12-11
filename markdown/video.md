@@ -2,6 +2,11 @@
 
 (Zoom, Hangouts, BlueJeans etc.)
 
+<!-- Note -->
+Next, I’d like to talk about video calls. Doesn’t matter what
+technology you’re using. Could be Zoom, Google Hangouts, BlueJeans,
+Jitsi, whatever.
+
 
 #### Motivation for video calls <!-- .element class="hidden" -->
 
@@ -9,6 +14,10 @@ The only reason to use **video calls** is to be able
 to **pick up on nontextual and nonverbal cues.**
 
 <!-- Note -->
+There’s a very good reason to use video calls: they give you the
+ability to pick up on nontextual and nonverbal cues from the call
+participants. But that’s really the only good reason to use them.
+
 Video calls have a significant drawback: until we get reliable
 automatic speech recognition and transcription, they are only
 half-on-the-record. Hardly anyone goes to the trouble of preparing a
