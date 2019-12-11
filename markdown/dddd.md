@@ -1,7 +1,11 @@
 ## Pinching the firehose
 
+<!-- Note -->
+Finally, I want to say a few words about what I like to call pinching
+the figurative firehose you might otherwise be forced to drink from:
 
-#### The **amount of incoming information** in a distributed team can be **daunting.**
+
+### The amount of incoming information in a distributed team can be daunting.
 
 <!-- Note -->
 When you work in a distributed team, since everyone is on their own
@@ -15,6 +19,8 @@ that, but *one* way, and you may find another works better for
 you. But you will need to define and apply *some* structure, otherwise
 you’ll feel constantly overwhelmed and run the risk of burning out.
 
+
+### Four-D approach <!-- .element class="hidden" -->
 
 Consider using the **“four-D” approach**  
 when dealing with incoming information.
@@ -31,7 +37,7 @@ don’t know if Allen invented the 4-D approach or whether someone came
 up with it before him, but that’s how I know about it.
 
 
-#### Four-D actions
+### Four-D actions
 
 Drop <!-- .element: class="fragment" -->
 
@@ -116,8 +122,7 @@ Within your own team, **you only ever delegate tasks, not
 responsibility.**
 
 
-Tasks without **follow-up** and **follow-through**  
-are a waste of people’s time.
+#### Tasks without follow-up and follow-through are a waste of people’s time.
 
 <!-- Note -->
 Do not delegate, or even define, tasks that you are not prepared to

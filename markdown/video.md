@@ -3,6 +3,8 @@
 (Zoom, Hangouts, BlueJeans etc.)
 
 
+#### Motivation for video calls <!-- .element class="hidden" -->
+
 The only reason to use **video calls** is to be able  
 to **pick up on nontextual and nonverbal cues.**
 
@@ -22,12 +24,14 @@ call, whereas doing so has a much greater probability of success if
 a discussion took place on any archived text-based medium.
 
 
-**Every video call needs an agenda.**
+#### Every video call needs an agenda.
 
 <!-- Note -->
 This is, of course, true for any meeting, not just those conducted by
 video call.
 
+
+#### Meeting notes <!-- .element class="hidden" -->
 
 Until machines get intelligent enough to automatically transcribe and
 summarise words spoken in a meeting, **write notes and a summary of
@@ -42,6 +46,8 @@ needs notes and a summary, and you need to circulate these notes not
 only with everyone who attended the meeting, but with everyone who has
 a need-to-know.
 
+
+#### Meeting notes contents <!-- .element class="hidden" -->
 
 1. Meeting title
 2. Date, time, attendees
@@ -82,4 +88,3 @@ reasons* of being able to pick up on nonverbal clues like body
 language, posture, facial expressions, and tone. If people are
 stressed out or unhappy, it’ll show. If they are relaxed and
 productive, that will show too.
-

@@ -16,14 +16,7 @@ Aviv](https://devopsdaystlv.com/) 2019.
 This talk is about communications in distributed teams.
 
 
-<!-- .slide: data-timing="5" -->
-Why am I talking here?
-
-<!-- Note -->
-So, why am I talking about that? Or rather more precisely...
-
-
-Why am **I** talking here?
+### Why am I talking here?
 
 office dweller — 11 years <!-- .element: class="fragment" -->
 
@@ -32,8 +25,9 @@ distributed company founder — 6 years <!-- .element: class="fragment" -->
 remote exec leading distributed team in mixed-mode company — 2 years <!-- .element: class="fragment" -->
 
 <!-- Note -->
-Why is it me that's talking here; what qualifies me to talk about this
-subject?
+So, why am I talking about **that**?
+
+Or rather more precisely, why am **I** talking about that?
 
 I turned 40 this year, have been in IT for about 19 years now (18
 full-time), and out of that I have worked
@@ -52,7 +46,7 @@ interesting challenges that come with this. But I'd like to state one
 thing upfront.
 
 
-This is **not science.**
+### This is _not science._
 
 <!-- Note -->
 Nothing of what I am talking about is steeped in any scientific

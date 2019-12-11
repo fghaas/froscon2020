@@ -21,6 +21,8 @@ communicate quickly and effectively, you are really making things
 harder for everyone, including yourself.
 
 
+### Modes of communication, compared <!-- .element class="hidden" -->
+
 |               | Share | Find | Contextualise |
 | -----------   | :---: | :--: |               |
 | Chat          | 🙂    | 😐   | 🙁            |
@@ -50,6 +52,14 @@ Let’s compare that to other communication modes:
 * A wiki and an issue tracker (provided you don’t lock them down with
   silly view permissions), in contrast, both make it *very* easy to
   share, find, **and** contextualise information.
+  
+  Note that “wiki”, in this context, is shorthand for any facility
+  that allows you to collaboratively edit long-form documents
+  online. That can be an actual wiki like a MediaWiki, but also
+  something like Confluence, or even shared Google Docs.
+  
+  Likewise, “issue tracker” can mean RT, OTRS, Jira, Taiga, Bugzilla,
+  whatever works for you.
   
 * Video calls are even worse than chat or email, because sharing
   information works but doesn’t scale — you can’t reasonably have more

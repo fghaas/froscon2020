@@ -1,3 +1,5 @@
+### Distributed team definition <!-- .element class="hidden" -->
+
 A distributed team is a **professional** group whose members do not
 rely on physical proximity in order to **routinely** collaborate
 productively.
@@ -26,6 +28,8 @@ It is important to understand that that lack of proximity is not only
 spatial, it is temporal as well, because:
 
 
+### Working asynchronously <!-- .element class="hidden" -->
+
 Working in a distributed team  
 means **working asynchronously.**
 
@@ -44,6 +48,8 @@ entire team up for failure.)
 Now, this doesn’t come for free, nor does it fall in our lap:
 
 
+### Acquired skill <!-- .element class="hidden" -->
+
 Being productive in a distributed team is a skill  
 that most people must **learn;** it is not innate to us.
 
@@ -61,6 +67,8 @@ if we fail to do so, that has a rather grave disadvantage, which is
 that...
 
 
+### Nothing is as bad as poor communications <!-- .element class="hidden" -->
+
 **Nothing** has as dire an impact  
 on productivity as  
 **poor communications.**
@@ -74,6 +82,8 @@ bad communications does guarantee failure.
 
 And here is one thing to start with:
 
+
+### Externalise information <!-- .element class="hidden" -->
 
 A capable distributed team  
 **habitually externalises** information.

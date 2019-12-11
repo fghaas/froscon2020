@@ -1,4 +1,4 @@
-# Text chat
+## Text chat
 
 <!-- Note -->
 So. Let’s talk about text chat. These days, that frequently means
@@ -12,6 +12,8 @@ Is text chat universally useful? No. Is it universally bad? Not that,
 either. There is a very specific type of situation in which text chat
 is a good thing:
 
+
+### What text chat is useful for <!-- .element class="hidden" -->
 
 Use **chat** for collaboration that requires  
 **immediate, interactive mutual feedback.**
@@ -32,6 +34,8 @@ For any interaction that does *not* require feedback that is *both*
 immediate and interactive, email, a wiki, or an issue tracker are *far
 superior* modes of communication.
 
+
+### Direct messages (DMs) <!-- .element class="hidden" -->
 
 The only reason to use **DMs** for collaboration  
 is a need for immediate, interactive mutual feedback  
@@ -94,6 +98,8 @@ only of their username and a marker like “ping”, “hi”, “hey” or
 similar.
 
 
+#### Naked ping example (don’t do this!) <!-- .element class="hidden" -->
+
 ```
 14:00:02Z johndoe: florian: ping
 [...]
@@ -106,6 +112,8 @@ Any person who is versed in the use of chat communications will, when
 subjected to this behavior, be inclined to flay you alive. Infinitely
 more so if it’s a DM. **Do not do this.**
 
+
+#### Contextual ping example (do this!) <!-- .element class="hidden" -->
 
 ```
 14:00:02Z johndoe: florian: can I get your eyes on PR #1422?

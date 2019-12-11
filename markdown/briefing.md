@@ -5,6 +5,8 @@ Whenever you need to thoroughly **brief a group of people on an
 important matter,** consider using a **5-paragraph format.**
 
 
+### 5-paragraph field order format <!-- .element class="hidden" -->
+
 1. Situation
 2. Mission
 3. Execution
@@ -21,6 +23,8 @@ my own country’s army —, but in this case it’s actually something that
 can very much be applied to professional communications, with some
 rather minor modifications. 
 
+
+### 5-paragraph briefing notes <!-- .element class="hidden" -->
 
 1. Situation
 2. Objective
@@ -42,6 +46,8 @@ rather minor modifications.
 5. Communications is about how you’ll be coordinating among yourselves
    and with others in order to achieve your goal.
 
+
+### Post-briefing questions <!-- .element class="hidden" -->
 
 “Please come back to me with your  
 questions by 1500 UTC tomorrow”  
