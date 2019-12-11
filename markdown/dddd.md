@@ -48,10 +48,8 @@ Defer <!-- .element: class="fragment" -->
 Do <!-- .element: class="fragment" -->
 
 <!-- Note -->
-There is an approach that was popularized by David Allen, the author
-of *Getting Things Done.* (I have no idea whether he *invented* this
-approach; others may have come before him.) He suggests to apply one
-of the following four actions to any incoming bit of information:
+In his book, David Allen suggests to apply one of the following four
+actions to any incoming bit of information:
 
 * **Drop** means read, understand, and then archive. It’s what you use
   for anything that doesn’t require any action on your part.
