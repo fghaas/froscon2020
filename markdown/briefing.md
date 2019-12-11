@@ -41,7 +41,7 @@ rather minor modifications.
    market.
 2. Objective is **what** we want to achieve.
 3. Plan is **how** we want to achieve it.
-4. Logistics is about what budget and resources are avaiable, and how
+4. Logistics is about what budget and resources are available, and how
    they are used.
 5. Communications is about how you’ll be coordinating among yourselves
    and with others in order to achieve your goal.
