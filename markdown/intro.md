@@ -32,7 +32,7 @@ Or rather more precisely, why am **I** talking about that?
 I turned 40 this year, have been in IT for about 19 years now (18
 full-time), and out of that I have worked
 
-* in 4 successive companies, for all of which worked out of offices,
+* in 4 successive companies, all of which worked out of offices,
   for 11 years, 
 
 * in a completely distributed company, that I founded, for 6 years,

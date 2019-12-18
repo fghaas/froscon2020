@@ -6,21 +6,22 @@ communication, relying mostly on those that make sharing, finding, and
 contextualising information easy, and avoiding those that make it
 difficult.
 
+In many teams, distributed or not, using chat as a default mode of
+communication is becoming the norm. Now with an important exception,
+which I’ll get to near the end of the talk, this is **not** a symptom
+of having a particularly dynamic or efficient team; it’s the opposite.
+
 
 ### Excessively using chat isn’t being efficient.
-It’s being lazy. <!-- .element class="fragment" -->
+It’s being lazy.
 
 <!-- Note -->
-In many teams, distributed or not, using chat as a default mode of
-communication is becoming the norm. This is **not** a symptom of
-having a particularly dynamic or efficient team; it’s the
-opposite. 
-
-It’s a symptom of the worst kind of laziness: in an attempt to
-communicate quickly and effectively, you are really making things
-harder for everyone, including yourself.
+It’s a symptom of the worst kind of laziness _(not malice!)_: in an
+attempt to communicate quickly and easily, for yourself, you are really
+making things harder for everyone, including yourself.
 
 
+<!-- .slide: data-timing="135" -->
 ### Modes of communication, compared <!-- .element class="hidden" -->
 
 |               | Share | Find | Contextualise |
@@ -34,12 +35,14 @@ harder for everyone, including yourself.
 <!-- Note -->
 This is because, while *sharing* information in a chat is extremely
 easy, it is also a “fire and forget” mode of communications. Chat
-makes it difficult to find information after the fact, as anyone will
-attest who has ever attempted to scour a busy Slack or IRC archive for
-a discussion on a specific topic that they only remember to have
-happened a “few months ago”. It’s even *more* difficult to read a
-Slack discussion in context, that is to say in relation to *other*
-discussions on the same topic, days or weeks earlier or later.
+makes it difficult to find information after the fact. If you’ve ever
+attempted to scour a busy Slack or IRC archive for a discussion on a
+specific topic that you only remember to have happened a “few months
+ago”, you’ll agree with me here.
+
+It’s even *more* difficult to read a Slack discussion in context, that
+is to say in relation to *other* discussions on the same topic, days
+or weeks earlier or later.
 
 Let’s compare that to other communication modes:
 
