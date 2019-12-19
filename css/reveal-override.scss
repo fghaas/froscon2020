@@ -30,10 +30,20 @@ body {
     }
 
     .hidden {
-	display: none !important;
+	display: none;
+    }
+
+    .overview {
+	.hidden {
+	    display: inherit;
+	}
     }
 
     td, th {
 	font-size: 200%;
+    }
+
+    img, iframe {
+	border: none !important;
     }
 }

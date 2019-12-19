@@ -25,9 +25,17 @@ body:after {
 }
 
 .reveal .hidden {
-  display: none !important;
+  display: none;
+}
+
+.reveal .overview .hidden {
+  display: inherit;
 }
 
 .reveal td, .reveal th {
   font-size: 200%;
+}
+
+.reveal img, .reveal iframe {
+  border: none !important;
 }
