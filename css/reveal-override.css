@@ -39,3 +39,14 @@ body:after {
 .reveal img, .reveal iframe {
   border: none !important;
 }
+
+.reveal .inline {
+  display: inline !important;
+}
+
+.reveal img.inline {
+  box-shadow: none !important;
+  height: 1em;
+  width: auto;
+  margin: 0 !important;
+}

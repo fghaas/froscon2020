@@ -7,7 +7,7 @@ DevOpsDays Tel Aviv, 2019
 
 * * *
 
-Florian Haas | [@xahteiwi](https://twitter.com/xahteiwi)
+[Florian Haas](https://twitter.com/xahteiwi) ![City Network logo](images/citynetwork-logo.svg) <!-- .element class="inline" --> [City Network](https://citynetworkhosting.com)
 
 <!-- Note -->
 This presentation is a 40-minute talk presented at [DevOpsDays Tel

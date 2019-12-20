@@ -46,4 +46,16 @@ body {
     img, iframe {
 	border: none !important;
     }
+
+    .inline {
+	display: inline !important;
+    }
+
+    img.inline {
+	box-shadow: none !important;
+	height: 1em;
+	width: auto;
+	margin: 0 !important;
+    }
+    
 }
