@@ -131,4 +131,4 @@ urgent, say something like “no urgency.”
 It should be self-evident why this is better than naked pings, but if
 to you it is not, then please read [Naked
 Pings](https://blogs.gnome.org/markmc/2014/02/20/naked-pings/),
-courtesy of Alan Jackson and Mark McLoughlin.
+courtesy of Adam Jackson and Mark McLoughlin.
