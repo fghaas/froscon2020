@@ -27,6 +27,9 @@ You can cycle through these slides by
   out on a touchscreen device), and then selecting the slide of your liking,
 * clicking the menu icon (&equiv;) or pressing the `m` key for a slide menu. 
 
+A video of the original presentation is available [from
+YouTube](https://youtu.be/CyzoF7mHEBo).
+
 
 ### Why am I talking here?
 
