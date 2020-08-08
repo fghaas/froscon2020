@@ -1,7 +1,7 @@
 ### Distributed team definition <!-- .element class="hidden" -->
 
 A distributed team is a **professional** group whose members do not
-rely on physical proximity in order to **routinely** collaborate
+rely on proximity in order to **routinely** collaborate
 productively.
 
 <!-- Note -->
