@@ -1,17 +1,17 @@
-# No, really, don't chuck everything in Slack
+# No, we won’t have a video call for that!
 Communications for distributed teams
 
 * * *
 
-DevOpsDays Tel Aviv, 2019
+FrOSCon 2020
 
 * * *
 
 [Florian Haas](https://twitter.com/xahteiwi) ![City Network logo](images/citynetwork-logo.svg) <!-- .element class="inline" --> [City Network](https://citynetworkhosting.com)
 
-<!-- Note -->
-This presentation is a 40-minute talk presented at [DevOpsDays Tel
-Aviv](https://devopsdaystlv.com/) 2019. It is [CC-BY-SA
+<!-- Note --> 
+This presentation is a talk presented at [FrOSCon 2020
+Cloud Edition](https://www.froscon.de/). It is [CC-BY-SA
 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licensed, see
 [the license](/LICENSE) for details.
 
