@@ -1,13 +1,12 @@
-# No, really, don't chuck everything in Slack
+# No, we won’t have a video call for that!
 Communications for distributed teams
 
-This is a personal talk. It does not claim to be rooted in statistical analysis or scientific rigour, and the evidence presented is anecdotal. But it might be insightful to anyone joining, leaving, or interacting with a remote team.
 
 * * *
 
 
 
-Rendered slides from this presentation are at <https://fghaas.github.io/dont_chuck_everything_in_slack>.
+Rendered slides from this presentation are at <https://fghaas.github.io/froscon2020>.
 
 * * *
 
