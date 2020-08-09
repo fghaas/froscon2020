@@ -7,11 +7,16 @@ Next, I’d like to talk about video calls. Doesn’t matter what
 technology you’re using. Could be Zoom, Google Hangouts, BlueJeans,
 Jitsi, whatever.
 
+And I’d like to address this specifically, given the fact that in the
+current pandemic the use of video calls appears to have skyrocketed.
+
 
 #### Motivation for video calls <!-- .element class="hidden" -->
 
 The only reason to use **video calls** is to be able  
 to **pick up on nontextual and nonverbal cues.**
+
+Seriously, that’s the **only** reason. <!-- .element class="fragment" -->
 
 <!-- Note -->
 There’s a very good reason to use video calls: they give you the
@@ -39,12 +44,35 @@ a discussion took place on any archived text-based medium.
 This is, of course, true for any meeting, not just those conducted by
 video call.
 
+A conversation without an agenda is useless. You want people to know
+what to expect of the call. You also want to give people the option to
+prepare for the call, such as doing some research or pulling together
+some documentation. If you fail to circulate those *ahead of time,* I
+can guarantee that the call will be ineffective, and will likely
+result in a repeat performance.
+
 
 #### Meeting notes <!-- .element class="hidden" -->
 
 Until machines get intelligent enough to automatically transcribe and
 summarise words spoken in a meeting, **write notes and a summary of
 every meeting you attend,** and **circulate them.**
+
+<!-- Note -->
+Just as important as an agenda to set the *purpose* of the meeting, is
+a set of notes that describes its *outcome*. 
+
+Effective distributed teams understand that the *record* of a call is
+what counts, not the call itself. It is not the spoken word that
+matters, but the written one.
+
+From that follows this consequence:
+
+
+#### Meeting notes effort <!-- .element class="hidden" -->
+
+To be useful, the write-up of a call **takes more time and effort**
+than the call itself.
 
 <!-- Note -->
 If you think that video calls are any less work than chat meetings or
@@ -65,7 +93,6 @@ a need-to-know.
 5. Action items
 
 <!-- Note -->
-
 Putting an executive summary at the very top is extraordinarily
 helpful so people can decide if they
 
@@ -77,19 +104,33 @@ helpful so people can decide if they
   back to them.
 
 
+#### Meetings abolishing themselves <!-- .element class="hidden" -->
+
+Once you do meetings right, you no longer need most of them.
+
+<!-- Note -->
+The funny thing is that once you adhere to this standard — and I
+repeat, that is *the only acceptable standard* for video meetings –
+you’ll note that you can actually skip the meeting altogether, use
+*just* a collaboratively edited document *instead* of your meeting
+notes, and remove your unnecessary synchronization point.
+
+
 ### Video calls for recurring team meetings
 
 <!-- Note -->
-Using video calls for recurring meetings is a perfectly good
+There is one thing that I do believe video calls are good for, and
+that is to use them for *recurring* meetings as as an
 opportunity to feel the pulse of your team.
 
-Obviously, a distributed team has *few* meetings, because they are
-synchronization points, and we’ve already discussed that we strive to
-minimize those. So the idea of having daily standups, sprint planning
-meetings, and sprint retrospectives is fundamentally incompatible with
-distributed teams. *Aside: in my humble opinion, this is also why
-using Scrum is a terrible idea in distributed teams — not to mention
-[that it’s a terrible idea, period.](https://youtu.be/f-ULT_Ic4qk)*
+Obviously, a distributed team has *few* recurring meetings, because
+they are synchronization points, and we’ve already discussed that we
+strive to minimize those. So the idea of having daily standups, sprint
+planning meetings, and sprint retrospectives is fundamentally
+incompatible with distributed teams. *Aside: in my humble opinion,
+this is also why using Scrum is a terrible idea in distributed teams —
+not to mention [that it’s a terrible idea,
+period.](https://youtu.be/f-ULT_Ic4qk)*
 
 However, having perhaps one meeting per week (or maybe even one every
 two weeks) in a video call is useful *precisely for the aforementioned
@@ -97,3 +138,11 @@ reasons* of being able to pick up on nonverbal clues like body
 language, posture, facial expressions, and tone. If people are
 stressed out or unhappy, it’ll show. If they are relaxed and
 productive, that will show too.
+
+Note that these meetings, which of course do follow the same rules
+about agenda and notes, are not strictly *necessary* to get the work
+done. The team I run has one one-hour meeting a week, but whenever
+that meeting conflicts with anything we skip it and divide up our
+work via just the circulated coordination notes, and that works
+too. The meeting really serves the purpose of syncing emotionally, and
+picking up on nonverbal communications.

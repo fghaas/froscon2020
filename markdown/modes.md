@@ -21,16 +21,11 @@ attempt to communicate quickly and easily, for yourself, you are really
 making things harder for everyone, including yourself.
 
 
-<!-- .slide: data-timing="135" -->
-### Modes of communication, compared <!-- .element class="hidden" -->
+### Modes of communication: chat <!-- .element class="hidden" -->
 
 |               | Share | Find | Contextualise |
 | -----------   | :---: | :--: |               |
 | Chat          | 🙂    | 😐   | 🙁            |
-| Email         | 😐    | 😐   | 😐            |
-| Wiki          | 🙂    | 🙂   | 🙂            |
-| Issue tracker | 🙂    | 🙂   | 🙂            |
-| Video call    | 😐    | 🙁   | 🙁            |
 
 <!-- Note -->
 This is because, while *sharing* information in a chat is extremely
@@ -46,12 +41,32 @@ or weeks earlier or later.
 
 Let’s compare that to other communication modes:
 
+
+### Modes of communication: email <!-- .element class="hidden" -->
+
+|               | Share | Find | Contextualise |
+| -----------   | :---: | :--: |               |
+| Chat          | 🙂    | 😐   | 🙁            |
+| Email         | 😐    | 😐   | 😐            |
+
+<!-- Note -->
 * Email makes it easy to share information with a person or a group
   from the get-go, but quite difficult to loop people into an ongoing
   discussion after the fact. Finding information later is just as hard
   as with chat, and it’s marginally better at contextualizing
   information than chat (because you get proper threading).
 
+
+### Modes of communication: wiki, issue tracker <!-- .element class="hidden" -->
+
+|               | Share | Find | Contextualise |
+| -----------   | :---: | :--: |               |
+| Chat          | 🙂    | 😐   | 🙁            |
+| Email         | 😐    | 😐   | 😐            |
+| Wiki          | 🙂    | 🙂   | 🙂            |
+| Issue tracker | 🙂    | 🙂   | 🙂            |
+
+<!-- Note -->
 * A wiki and an issue tracker (provided you don’t lock them down with
   silly view permissions), in contrast, both make it *very* easy to
   share, find, **and** contextualise information.
@@ -63,7 +78,19 @@ Let’s compare that to other communication modes:
   
   Likewise, “issue tracker” can mean RT, OTRS, Jira, Taiga, Bugzilla,
   whatever works for you.
-  
+
+
+### Modes of communication: video calls <!-- .element class="hidden" -->
+
+|               | Share | Find | Contextualise |
+| -----------   | :---: | :--: |               |
+| Chat          | 🙂    | 😐   | 🙁            |
+| Email         | 😐    | 😐   | 😐            |
+| Wiki          | 🙂    | 🙂   | 🙂            |
+| Issue tracker | 🙂    | 🙂   | 🙂            |
+| Video call    | 😐    | 🙁   | 🙁            |
+
+<!-- Note -->
 * Video calls are even worse than chat or email, because sharing
   information works but doesn’t scale — you can’t reasonably have more
   than 5-or-so people in a video call, and sharing the recording of a
