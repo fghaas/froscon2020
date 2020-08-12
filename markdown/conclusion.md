@@ -1,14 +1,27 @@
-<!-- .slide: data-timing="120" -->
-# QR code (Twitter) <!-- .element: class="hidden" -->
-![QR code for Twitter](images/qr-twitter.svg)
-
-[fghaas.github.io/devopsdaystlv-2019](https://fghaas.github.io/devopsdaystlv-2019)
+## To summarize...
 
 <!-- Note -->
-So if you found this interesting, feel free to peruse this QR code to
-tweet about it and tell your friends, and do use that to get in touch
-with me as well.
+So to summarize, here are my key points from this talk, in a nutshell
+— please make this your key takeaways.
 
+
+**Distributed teams are better than localized teams**
+
+**— not because they’re distributed, but because they’re asynchronous.**
+
+
+**Avoid anything that makes a distributed team run synchronously.**
+
+
+**Use less chat.**
+
+
+**Have fewer meetings.**
+
+
+**Write. Things. Down.**
+
+<!-- Note -->
 _[Time for questions]_
 
 Thank you!
