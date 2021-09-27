@@ -69,7 +69,7 @@ And something else happened: a lot of people suddenly started talking
 about working from home and distributed teams, and a lot of those
 people who were talking very loudly, had themselves only been working
 with or managing distributed teams since March. And a fair amount of
-what you could about the subject then, and can still read now, is
+what you could read about the subject then, and can still read now, is
 complete and utter bullshit.
 
 So there’s one point I actually *didn’t* make in the initial version
